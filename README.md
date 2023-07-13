@@ -1,4 +1,4 @@
-# TypeScript Concepts
+# TypeScript Concepts and Node 16.17.1
 
 This repository provides an overview of important concepts in TypeScript.
 
